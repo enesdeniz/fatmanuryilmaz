@@ -1,0 +1,242 @@
+May 20 17:04:32 10.71.61.0 a2570152 Connection from 10.71.61.0 port 10214 on 216.250.113.250 port 22 rdomain ""
+May 20 17:04:32 10.71.61.0 a2570152 Accepted password for a2570152 from 10.71.61.0 port 10214 ssh2
+May 20 17:04:33 10.71.61.0 a2570152 Starting session: subsystem 'sftp' for a2570152 from 10.71.61.0 port 10214 id 0
+May 20 17:04:33 10.71.61.0 a2570152 session opened for local user a2570152 from [10.71.61.0]
+May 20 17:04:55 10.71.61.0 a2570152 open "/htdocs/public_html/index.html" flags READ mode 0666
+May 20 17:04:56 10.71.61.0 a2570152 close "/htdocs/public_html/index.html" bytes read 320645 written 0
+May 20 17:04:56 10.71.61.0 a2570152 [10.71.61.0|get|1|320645|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f696e6465782e68746d6c|]
+May 20 17:09:56 10.71.61.0 a2570152 session closed for local user a2570152 from [10.71.61.0]
+May 20 17:09:56 10.71.61.0 a2570152 Connection closed by 10.71.61.0 port 10214
+May 20 17:14:52 10.71.61.0 a176158 Connection from 10.71.61.0 port 52098 on 216.250.113.250 port 22 rdomain ""
+May 20 17:14:53 10.71.61.0 a176158 Accepted password for a176158 from 10.71.61.0 port 52098 ssh2
+May 20 17:14:53 10.71.61.0 a176158 Starting session: subsystem 'sftp' for a176158 from 10.71.61.0 port 52098 id 0
+May 20 17:14:53 10.71.61.0 a176158 session opened for local user a176158 from [10.71.61.0]
+May 20 17:14:54 10.71.61.0 a176158 open "/htdocs/public_html/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+May 20 17:14:54 10.71.61.0 a176158 close "/htdocs/public_html/index.html" bytes read 0 written 319091
+May 20 17:14:54 10.71.61.0 a176158 [10.71.61.0|put|0|319091|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f696e6465782e68746d6c|]
+May 20 17:19:11 10.71.61.0 a176158 open "/htdocs/public_html/index.html" flags READ mode 0666
+May 20 17:19:12 10.71.61.0 a176158 close "/htdocs/public_html/index.html" bytes read 319091 written 0
+May 20 17:19:12 10.71.61.0 a176158 [10.71.61.0|get|1|319091|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f696e6465782e68746d6c|]
+May 20 17:19:16 10.71.61.0 a176158 open "/htdocs/public_html/index.html" flags WRITE,CREATE,TRUNCATE mode 0666
+May 20 17:19:17 10.71.61.0 a176158 close "/htdocs/public_html/index.html" bytes read 0 written 319030
+May 20 17:19:17 10.71.61.0 a176158 [10.71.61.0|put|1|319030|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f696e6465782e68746d6c|]
+May 20 17:24:25 10.71.61.0 a176158 session closed for local user a176158 from [10.71.61.0]
+May 20 17:24:25 10.71.61.0 a176158 Connection closed by 10.71.61.0 port 52098
+May 20 18:24:49 10.71.61.0 a2051936 Connection from 10.71.61.0 port 20250 on 216.250.113.250 port 22 rdomain ""
+May 20 18:24:49 10.71.61.0 a2051936 Accepted password for a2051936 from 10.71.61.0 port 20250 ssh2
+May 20 18:24:50 10.71.61.0 a2051936 Starting session: subsystem 'sftp' for a2051936 from 10.71.61.0 port 20250 id 0
+May 20 18:24:50 10.71.61.0 a2051936 session opened for local user a2051936 from [10.71.61.0]
+May 20 18:25:18 10.71.60.0 a2051936 Connection from 10.71.60.0 port 18094 on 216.250.113.250 port 22 rdomain ""
+May 20 18:25:18 10.71.60.0 a2051936 Accepted password for a2051936 from 10.71.60.0 port 18094 ssh2
+May 20 18:25:18 10.71.60.0 a2051936 Connection from 10.71.60.0 port 18084 on 216.250.113.250 port 22 rdomain ""
+May 20 18:25:19 10.71.60.0 a2051936 Accepted password for a2051936 from 10.71.60.0 port 18084 ssh2
+May 20 18:25:19 10.71.60.0 a2051936 Starting session: subsystem 'sftp' for a2051936 from 10.71.60.0 port 18094 id 0
+May 20 18:25:19 10.71.60.0 a2051936 Starting session: subsystem 'sftp' for a2051936 from 10.71.60.0 port 18084 id 0
+May 20 18:25:19 10.71.60.0 a2051936 session opened for local user a2051936 from [10.71.60.0]
+May 20 18:25:19 10.71.60.0 a2051936 session opened for local user a2051936 from [10.71.60.0]
+May 20 18:25:19 10.71.60.0 a2051936 open "/htdocs/public_html/favicon-32x32.png" flags READ mode 0666
+May 20 18:25:19 10.71.60.0 a2051936 open "/htdocs/public_html/sitemap.xml" flags READ mode 0666
+May 20 18:25:19 10.71.60.0 a2051936 close "/htdocs/public_html/favicon-32x32.png" bytes read 929 written 0
+May 20 18:25:19 10.71.60.0 a2051936 [10.71.60.0|get|0|929|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f66617669636f6e2d33327833322e706e67|]
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/sitemap.xml" bytes read 1267 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|1|1267|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f736974656d61702e786d6c|]
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/favicon-16x16.png" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/favicon.ico" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/favicon-16x16.png" bytes read 487 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|487|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f66617669636f6e2d31367831362e706e67|]
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/favicon.ico" bytes read 15406 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|15406|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f66617669636f6e2e69636f|]
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/apple-touch-icon.png" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/android-chrome-192x192.png" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/apple-touch-icon.png" bytes read 6312 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|6312|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6170706c652d746f7563682d69636f6e2e706e67|]
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/android-chrome-512x512.png" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/android-chrome-192x192.png" bytes read 6937 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|6937|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f616e64726f69642d6368726f6d652d313932783139322e706e67|]
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/index.html" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/android-chrome-512x512.png" bytes read 20783 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|20783|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f616e64726f69642d6368726f6d652d353132783531322e706e67|]
+May 20 18:25:20 10.71.60.0 a2051936 open "/htdocs/public_html/group-therapy.html" flags READ mode 0666
+May 20 18:25:20 10.71.60.0 a2051936 close "/htdocs/public_html/index.html" bytes read 319030 written 0
+May 20 18:25:20 10.71.60.0 a2051936 [10.71.60.0|get|0|319030|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f696e6465782e68746d6c|]
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/group-therapy.html" bytes read 258023 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|1|258023|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f67726f75702d746865726170792e68746d6c|]
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/couples-counseling.html" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/biresyel-terapi.html" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/couples-counseling.html" bytes read 257293 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|257293|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f636f75706c65732d636f756e73656c696e672e68746d6c|]
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/biresyel-terapi.html" bytes read 257831 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|257831|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f626972657379656c2d7465726170692e68746d6c|]
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/online-terapi.html" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/.htaccess" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/.htaccess" bytes read 378 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|378|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f2e6874616363657373|]
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/online-terapi.html" bytes read 256869 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|256869|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6f6e6c696e652d7465726170692e68746d6c|]
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/poppins-latin-normal-600 (1).woff2" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/poppins-latin-ext-normal-600.woff2" flags READ mode 0666
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/poppins-latin-normal-600 (1).woff2" bytes read 7992 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|7992|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f706f7070696e732d6c6174696e2d6e6f726d616c2d363030202831292e776f666632|]
+May 20 18:25:21 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/poppins-latin-ext-normal-600.woff2" bytes read 5552 written 0
+May 20 18:25:21 10.71.60.0 a2051936 [10.71.60.0|get|0|5552|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f706f7070696e732d6c6174696e2d6578742d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:21 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-900.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-600.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-900.woff2" bytes read 9656 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|1|9656|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d766965746e616d6573652d6e6f726d616c2d3930302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-600.woff2" bytes read 9656 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|1|9656|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d766965746e616d6573652d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-400.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-normal-900.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-vietnamese-normal-400.woff2" bytes read 9656 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|9656|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d766965746e616d6573652d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-normal-900.woff2" bytes read 30092 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|30092|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6e6f726d616c2d3930302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-normal-600.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-normal-400.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-normal-600.woff2" bytes read 30092 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|30092|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-normal-400.woff2" bytes read 30092 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|30092|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-900.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-600.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-900.woff2" bytes read 26192 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|26192|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6578742d6e6f726d616c2d3930302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-400.woff2" flags READ mode 0666
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-600.woff2" bytes read 26192 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|26192|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6578742d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-latin-ext-normal-400.woff2" bytes read 26192 written 0
+May 20 18:25:22 10.71.60.0 a2051936 [10.71.60.0|get|0|26192|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d6c6174696e2d6578742d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:22 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-900.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-600.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-900.woff2" bytes read 15772 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|1|15772|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6e6f726d616c2d3930302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-600.woff2" bytes read 15772 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|15772|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-400.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-900.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-normal-400.woff2" bytes read 15772 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|15772|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-900.woff2" bytes read 21184 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|21184|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6578742d6e6f726d616c2d3930302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-600.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-400.woff2" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-600.woff2" bytes read 21184 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|21184|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6578742d6e6f726d616c2d3630302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/mulish-cyrillic-ext-normal-400.woff2" bytes read 21184 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|21184|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6d756c6973682d637972696c6c69632d6578742d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/library.json" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/h5p-font-awesome.min.css" flags READ mode 0666
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/h5p-font-awesome.min.css" bytes read 27420 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|27420|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6835702d666f6e742d617765736f6d652e6d696e2e637373|]
+May 20 18:25:23 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/library.json" bytes read 291 written 0
+May 20 18:25:23 10.71.60.0 a2051936 [10.71.60.0|get|0|291|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f6c6962726172792e6a736f6e|]
+May 20 18:25:23 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/FontAwesome.otf" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/fontawesome-webfont.woff2" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/FontAwesome.otf" bytes read 109688 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|1|109688|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f466f6e74417765736f6d652e6f7466|]
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/fontawesome-webfont.woff2" bytes read 66624 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|1|66624|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f666632|]
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/fontawesome-webfont.woff" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/fontawesome-webfont.ttf" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/fontawesome-webfont.woff" bytes read 83588 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|83588|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f666f6e74617765736f6d652d776562666f6e742e776f6666|]
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/fontawesome-webfont.ttf" bytes read 142072 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|142072|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f666f6e74617765736f6d652d776562666f6e742e747466|]
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/fontawesome-webfont.eot" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/fontawesome-webfont.svg" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/fontawesome-webfont.eot" bytes read 70807 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|70807|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f666f6e74617765736f6d652d776562666f6e742e656f74|]
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/fontawesome-webfont.svg" bytes read 365616 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|365616|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f666f6e74617765736f6d652d776562666f6e742e737667|]
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/dancingscript-latin-normal-400.woff2" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/dancingscript-latin-normal-400.woff2" bytes read 29096 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|29096|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f64616e63696e677363726970742d6c6174696e2d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/dancingscript-vietnamese-normal-400.woff2" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/dancingscript-latin-ext-normal-400.woff2" flags READ mode 0666
+May 20 18:25:24 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/dancingscript-vietnamese-normal-400.woff2" bytes read 6232 written 0
+May 20 18:25:24 10.71.60.0 a2051936 [10.71.60.0|get|0|6232|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f64616e63696e677363726970742d766965746e616d6573652d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/dancingscript-latin-ext-normal-400.woff2" bytes read 16072 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|1|16072|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f64616e63696e677363726970742d6c6174696e2d6578742d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/assets/fonts/copse-latin-normal-400.woff2" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/assets/fonts/copse-latin-normal-400.woff2" bytes read 19604 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|19604|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f6173736574732f666f6e74732f636f7073652d6c6174696e2d6e6f726d616c2d3430302e776f666632|]
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/d6a465ee-e2f2-11ef-9c62-0242ac110002-jpg-regular_image.jpg" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/d6a465ee-e2f2-11ef-9c62-0242ac110002-jpg-regular_image.jpg" bytes read 120671 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|120671|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f64366134363565652d653266322d313165662d396336322d3032343261633131303030322d6a70672d726567756c61725f696d6167652e6a7067|]
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/d648b4c4-e2f2-11ef-9c62-0242ac110002-jpg-hero_image.jpg" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/9ce3043c-e2e8-11ef-9485-0242ac110002-jpg-regular_image.jpg" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/d648b4c4-e2f2-11ef-9c62-0242ac110002-jpg-hero_image.jpg" bytes read 497935 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|497935|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f64363438623463342d653266322d313165662d396336322d3032343261633131303030322d6a70672d6865726f5f696d6167652e6a7067|]
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/9ce3043c-e2e8-11ef-9485-0242ac110002-jpg-regular_image.jpg" bytes read 83823 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|83823|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f39636533303433632d653265382d313165662d393438352d3032343261633131303030322d6a70672d726567756c61725f696d6167652e6a7067|]
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/9caf36f2-e2e8-11ef-9485-0242ac110002-jpg-hero_image.jpg" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/53d247a0-e2e1-11ef-bb35-0242ac110002-png-hero_image.png" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/9caf36f2-e2e8-11ef-9485-0242ac110002-jpg-hero_image.jpg" bytes read 219885 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|219885|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f39636166333666322d653265382d313165662d393438352d3032343261633131303030322d6a70672d6865726f5f696d6167652e6a7067|]
+May 20 18:25:25 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/53d247a0-e2e1-11ef-bb35-0242ac110002-png-hero_image.png" bytes read 168937 written 0
+May 20 18:25:25 10.71.60.0 a2051936 [10.71.60.0|get|0|168937|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f35336432343761302d653265312d313165662d626233352d3032343261633131303030322d706e672d6865726f5f696d6167652e706e67|]
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/31c95a4a-e2eb-11ef-9a3d-0242ac110002-jpg-regular_image.jpg" flags READ mode 0666
+May 20 18:25:25 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/3138356a-e2eb-11ef-9a3d-0242ac110002-jpg-hero_image.jpg" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/31c95a4a-e2eb-11ef-9a3d-0242ac110002-jpg-regular_image.jpg" bytes read 121881 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|1|121881|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f33316339356134612d653265622d313165662d396133642d3032343261633131303030322d6a70672d726567756c61725f696d6167652e6a7067|]
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/3138356a-e2eb-11ef-9a3d-0242ac110002-jpg-hero_image.jpg" bytes read 127957 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|1|127957|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f33313338333536612d653265622d313165662d396133642d3032343261633131303030322d6a70672d6865726f5f696d6167652e6a7067|]
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/2f9f6c84-e2ee-11ef-a238-0242ac110002-49-hero_image.jpg" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/2fc895c8-e2ee-11ef-a238-0242ac110002-49-regular_image.jpg" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/2f9f6c84-e2ee-11ef-a238-0242ac110002-49-hero_image.jpg" bytes read 40814 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|40814|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f32663966366338342d653265652d313165662d613233382d3032343261633131303030322d34392d6865726f5f696d6167652e6a7067|]
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/2fc895c8-e2ee-11ef-a238-0242ac110002-49-regular_image.jpg" bytes read 40814 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|40814|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f32666338393563382d653265652d313165662d613233382d3032343261633131303030322d34392d726567756c61725f696d6167652e6a7067|]
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/client_media/E5fiyRgw/1b49821a-e2df-11ef-80d0-0242ac110002-jpg-hero_image.jpg" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/client_media/E5fiyRgw/1b49821a-e2df-11ef-80d0-0242ac110002-jpg-hero_image.jpg" bytes read 125494 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|125494|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f636c69656e745f6d656469612f45356669795267772f31623439383231612d653264662d313165662d383064302d3032343261633131303030322d6a70672d6865726f5f696d6167652e6a7067|]
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/cdn/prod_traffic/global.js" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/cdn/prod_traffic/global.js" bytes read 0 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|0|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f63646e2f70726f645f747261666669632f676c6f62616c2e6a73|]
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/code.jquery.com/jquery-3.6.0.min.js" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/code.jquery.com/jquery-3.6.0.min.js" bytes read 89500 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|89500|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f636f64652e6a71756572792e636f6d2f6a71756572792d332e362e302e6d696e2e6a73|]
+May 20 18:25:26 10.71.60.0 a2051936 open "/htdocs/public_html/code.jquery.com/bundle-26df06bbde665912c7803cd668f15047.js" flags READ mode 0666
+May 20 18:25:26 10.71.60.0 a2051936 close "/htdocs/public_html/code.jquery.com/bundle-26df06bbde665912c7803cd668f15047.js" bytes read 518460 written 0
+May 20 18:25:26 10.71.60.0 a2051936 [10.71.60.0|get|0|518460|0|0|0|2f6874646f63732f7075626c69635f68746d6c2f636f64652e6a71756572792e636f6d2f62756e646c652d32366466303662626465363635393132633738303363643636386631353034372e6a73|]
+May 20 18:26:26 10.71.60.0 a2051936 session closed for local user a2051936 from [10.71.60.0]
+May 20 18:26:26 10.71.60.0 a2051936 Connection closed by 10.71.60.0 port 18084
+May 20 18:26:27 10.71.60.0 a2051936 session closed for local user a2051936 from [10.71.60.0]
+May 20 18:26:27 10.71.60.0 a2051936 Connection closed by 10.71.60.0 port 18094
+May 20 18:28:49 10.71.61.0 a2051936 sent status No such file
+May 20 18:28:49 10.71.61.0 a2051936 Connection from 10.71.61.0 port 22854 on 216.250.113.250 port 22 rdomain ""
+May 20 18:28:49 10.71.61.0 a2051936 Accepted password for a2051936 from 10.71.61.0 port 22854 ssh2
+May 20 18:28:49 10.71.61.0 a2051936 Connection from 10.71.61.0 port 29212 on 216.250.113.250 port 22 rdomain ""
+May 20 18:28:49 10.71.61.0 a2051936 Accepted password for a2051936 from 10.71.61.0 port 29212 ssh2
+May 20 18:28:50 10.71.61.0 a2051936 Starting session: subsystem 'sftp' for a2051936 from 10.71.61.0 port 22854 id 0
+May 20 18:28:50 10.71.61.0 a2051936 session opened for local user a2051936 from [10.71.61.0]
+May 20 18:28:50 10.71.61.0 a2051936 Starting session: subsystem 'sftp' for a2051936 from 10.71.61.0 port 29212 id 0
+May 20 18:28:50 10.71.61.0 a2051936 session opened for local user a2051936 from [10.71.61.0]
+May 20 18:28:50 10.71.61.0 a2051936 open "/logs/access.log.20.7.gz" flags READ mode 0666
+May 20 18:28:50 10.71.61.0 a2051936 open "/logs/access.log.20.6.gz" flags READ mode 0666
+May 20 18:28:50 10.71.61.0 a2051936 close "/logs/access.log.20.7.gz" bytes read 4632 written 0
+May 20 18:28:50 10.71.61.0 a2051936 [10.71.61.0|get|0|4632|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e372e677a|]
+May 20 18:28:50 10.71.61.0 a2051936 close "/logs/access.log.20.6.gz" bytes read 8114 written 0
+May 20 18:28:50 10.71.61.0 a2051936 [10.71.61.0|get|0|8114|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e362e677a|]
+May 20 18:28:50 10.71.61.0 a2051936 open "/logs/access.log.20.2.gz" flags READ mode 0666
+May 20 18:28:50 10.71.61.0 a2051936 open "/logs/access.log.21.2" flags READ mode 0666
+May 20 18:28:50 10.71.61.0 a2051936 close "/logs/access.log.20.2.gz" bytes read 6257 written 0
+May 20 18:28:50 10.71.61.0 a2051936 [10.71.61.0|get|0|6257|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e322e677a|]
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/access.log.20.3.gz" flags READ mode 0666
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.21.2" bytes read 129447 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|1|129447|0|0|0|2f6c6f67732f6163636573732e6c6f672e32312e32|]
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.20.3.gz" bytes read 4854 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|0|4854|0|0|0|2f6c6f67732f6163636573732e6c6f672e32302e332e677a|]
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/access.log.18.gz" flags READ mode 0666
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/access.log.17.gz" flags READ mode 0666
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.18.gz" bytes read 55320 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|0|55320|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e677a|]
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.17.gz" bytes read 116982 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|0|116982|0|0|0|2f6c6f67732f6163636573732e6c6f672e31372e677a|]
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/access.log.15.gz" flags READ mode 0666
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/access.log.21.1" flags READ mode 0666
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.15.gz" bytes read 98949 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|0|98949|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e677a|]
+May 20 18:28:51 10.71.61.0 a2051936 close "/logs/access.log.21.1" bytes read 36345 written 0
+May 20 18:28:51 10.71.61.0 a2051936 [10.71.61.0|get|0|36345|0|0|0|2f6c6f67732f6163636573732e6c6f672e32312e31|]
+May 20 18:28:51 10.71.61.0 a2051936 open "/logs/sftp.log" flags READ mode 0666
